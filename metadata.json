@@ -1,0 +1,6 @@
+{
+  "name": "Precision Calc",
+  "description": "A tactile, precision Android calculator with scientific functions, live expression evaluation, unit conversion, and persistent calculation history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
